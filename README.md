@@ -28,7 +28,7 @@ Include a link to a live demo or a screenshot/gif of your animated images websit
 1. Clone or download the repository:
 
     ```bash
-    git clone https://github.com/your-username/animated-images-website.git
+    git clone https://github.com/thapasijan171/Animated-Images-Website.git
     ```
 
 2. Open `index.html` in your web browser.
